@@ -1,0 +1,8 @@
+Operators
+- Arithmetic Operators -> +, -, /, *, %, //, **
+- Assignment Operators -> =, :=, +=, -=, /=, *=, %=
+- Comparison Operators -> >, <, ==, >=, <=, !=
+- Logical Operators -> and, or, not
+- Membership Operators - in, not in
+- Identity Operators - is, is not
+- Bitwise Operators - &, |, ^, <<, >>
