@@ -6,3 +6,60 @@ Operators
 - Membership Operators - in, not in
 - Identity Operators - is, is not
 - Bitwise Operators - &, |, ^, <<, >>
+------------------------------------------------------------
+Data Types
+
+	Numeric			Text			Boolean			Bytes			Data Collection
+     - int				- str			- True			- bytes		- List
+     - float							- False							- Tuples
+     - complex															- Dictionary
+																			- Set & Frozen Set
+===============================================================
+Control Flow
+- If Else
+- Loop
+- Break and Continue
+
+
+If Else
+
+Loops
+- for		- range(start, stop, step=1)
+- while	- depends on a condition
+
+stop=4
+start=0
+for i in range(4):
+    print("Hello...")
+
+
+============================================
+Guess the number
+
+cpu - 0 to 100
+user - guess
+if guess > cpu : "you have guessed larger number"
+elif guess < cpu : "you have guessed smaller number"
+
+============================================
+
+Break, Continue and Pass
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
