@@ -47,7 +47,34 @@ Break, Continue and Pass
 
 ============================================
 
+If Else / Loops...
+Chat Application
 
+
+Web Scraping
+
+urllib.request - pre-defined package
+- to request any URL
+- using this package we will make HTTPRequest and in return we will get HTTPResponse
+
+bs4 - Beautiful Soup - 3rd party
+- fetch HTML from HTTPResponse
+- from HTML tag we will fetch text part only...
+
+pip - python package manager
+- manages 3rd party packages
+
+pip install bs4
+
+pip uninstall bs4
+=======================
+API Calls
+API - Application Programming Interface
+
+=======================
+Streamlit
+
+pip install streamlit
 
 
 
